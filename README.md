@@ -32,6 +32,7 @@
 | [0268-missing-number](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2561-number-of-distinct-averages](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/2561-number-of-distinct-averages) |
+| [2825-minimize-string-length](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/2825-minimize-string-length) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -129,6 +130,7 @@
 | [0344-reverse-string](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2825-minimize-string-length](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/2825-minimize-string-length) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## Stack
 |  |
