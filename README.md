@@ -169,6 +169,7 @@
 | [0231-power-of-two](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0342-power-of-four) |
+| [2659-number-of-even-and-odd-bits](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/2659-number-of-even-and-odd-bits) |
 ## Simulation
 |  |
 | ------- |
