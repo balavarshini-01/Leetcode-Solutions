@@ -41,6 +41,7 @@
 | [0007-reverse-integer](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0231-power-of-two) |
@@ -83,6 +84,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0231-power-of-two) |
