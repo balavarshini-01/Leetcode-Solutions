@@ -61,6 +61,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0908-middle-of-the-linked-list](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0908-middle-of-the-linked-list) |
@@ -82,6 +83,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 ## Stack
 |  |
