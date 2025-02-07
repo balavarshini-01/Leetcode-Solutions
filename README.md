@@ -36,4 +36,8 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
