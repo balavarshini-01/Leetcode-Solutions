@@ -65,6 +65,7 @@
 | [0326-power-of-three](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2491-smallest-even-multiple](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/2491-smallest-even-multiple) |
 | [2752-sum-multiples](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/2752-sum-multiples) |
 ## Binary Search
 |  |
@@ -193,4 +194,5 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0258-add-digits) |
+| [2491-smallest-even-multiple](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
