@@ -13,6 +13,7 @@
 | [0042-trapping-rain-water](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [1603-running-sum-of-1d-array](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -21,6 +22,7 @@
 | [0041-first-missing-positive](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Divide and Conquer
 |  |
@@ -32,6 +34,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -50,6 +53,7 @@
 | [0231-power-of-two](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0342-power-of-four) |
 ## Binary Search
@@ -58,6 +62,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Database
 |  |
 | ------- |
@@ -150,6 +155,7 @@
 | ------- |
 | [0191-number-of-1-bits](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
