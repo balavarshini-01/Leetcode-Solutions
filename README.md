@@ -17,6 +17,7 @@
 | [0268-missing-number](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1603-running-sum-of-1d-array](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/1603-running-sum-of-1d-array) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2561-number-of-distinct-averages](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/2561-number-of-distinct-averages) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -99,6 +100,7 @@
 | [0202-happy-number](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0908-middle-of-the-linked-list) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2561-number-of-distinct-averages](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/2561-number-of-distinct-averages) |
 ## Linked List
 |  |
@@ -125,6 +127,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## Stack
