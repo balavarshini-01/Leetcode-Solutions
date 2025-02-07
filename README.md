@@ -19,6 +19,7 @@
 | [0041-first-missing-positive](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0202-happy-number) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Math
 |  |
 | ------- |
@@ -93,6 +95,7 @@
 | [0058-length-of-last-word](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Stack
 |  |
 | ------- |
