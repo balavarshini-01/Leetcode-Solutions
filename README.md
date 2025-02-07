@@ -27,6 +27,7 @@
 | [0041-first-missing-positive](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2561-number-of-distinct-averages](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/2561-number-of-distinct-averages) |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2561-number-of-distinct-averages](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/2561-number-of-distinct-averages) |
@@ -121,6 +123,7 @@
 | [0058-length-of-last-word](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
