@@ -60,6 +60,7 @@
 | [0268-missing-number](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0342-power-of-four) |
+| [2752-sum-multiples](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/2752-sum-multiples) |
 ## Binary Search
 |  |
 | ------- |
