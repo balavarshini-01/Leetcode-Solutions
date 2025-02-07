@@ -34,6 +34,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0263-ugly-number) |
@@ -42,6 +43,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0069-sqrtx) |
 ## Database
 |  |
 | ------- |
