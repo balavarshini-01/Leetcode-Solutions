@@ -73,6 +73,7 @@
 | [0268-missing-number](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2491-smallest-even-multiple](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/2491-smallest-even-multiple) |
 | [2752-sum-multiples](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/2752-sum-multiples) |
@@ -83,6 +84,7 @@
 | [0035-search-insert-position](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0792-binary-search) |
 ## Database
 |  |
