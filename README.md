@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0007-reverse-integer) |
+| [0263-ugly-number](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0263-ugly-number) |
 ## Binary Search
 |  |
 | ------- |
