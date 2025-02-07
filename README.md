@@ -48,6 +48,7 @@
 | [0069-sqrtx](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0342-power-of-four) |
@@ -152,6 +153,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0043-multiply-strings) |
+| [0258-add-digits](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0258-add-digits) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -164,4 +166,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
