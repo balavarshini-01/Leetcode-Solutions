@@ -36,6 +36,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0231-power-of-two) |
@@ -84,6 +85,7 @@
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 ## Stack
@@ -126,4 +128,8 @@
 | ------- |
 | [0231-power-of-two](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0342-power-of-four) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
