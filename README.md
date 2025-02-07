@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -14,6 +15,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -27,4 +29,8 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0007-reverse-integer) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
