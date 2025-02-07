@@ -58,5 +58,10 @@
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0908-middle-of-the-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
