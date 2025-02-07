@@ -39,6 +39,7 @@
 | [0231-power-of-two](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0342-power-of-four) |
 ## Binary Search
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 | [0206-reverse-linked-list](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0342-power-of-four) |
 ## String
 |  |
 | ------- |
@@ -118,4 +120,5 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
