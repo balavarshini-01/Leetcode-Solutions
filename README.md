@@ -26,6 +26,7 @@
 | [2283-sort-even-and-odd-indices-independently](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2561-number-of-distinct-averages](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/2561-number-of-distinct-averages) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +82,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2491-smallest-even-multiple](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/2491-smallest-even-multiple) |
 | [2752-sum-multiples](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/2752-sum-multiples) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Binary Search
 |  |
 | ------- |
