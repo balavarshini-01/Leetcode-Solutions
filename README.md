@@ -19,6 +19,7 @@
 | [0268-missing-number](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1137-height-checker](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/1137-height-checker) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1603-running-sum-of-1d-array](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -52,6 +53,7 @@
 | [0242-valid-anagram](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1137-height-checker](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/1137-height-checker) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2561-number-of-distinct-averages](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/2561-number-of-distinct-averages) |
 ## Counting
@@ -215,4 +217,8 @@
 | ------- |
 | [0258-add-digits](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/2491-smallest-even-multiple) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
