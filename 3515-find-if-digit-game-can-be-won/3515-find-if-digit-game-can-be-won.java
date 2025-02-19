@@ -10,8 +10,6 @@ class Solution {
         }
         if (sum1==sum2)
         return false;
-        else if(sum1>sum2)
-        return true;
         else
         return true;
 
