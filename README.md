@@ -22,6 +22,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/1137-height-checker) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1603-running-sum-of-1d-array](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/2283-sort-even-and-odd-indices-independently) |
@@ -39,6 +40,7 @@
 | [0242-valid-anagram](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2561-number-of-distinct-averages](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/2561-number-of-distinct-averages) |
 | [2825-minimize-string-length](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/2825-minimize-string-length) |
@@ -57,6 +59,7 @@
 | [0268-missing-number](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/1137-height-checker) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2561-number-of-distinct-averages](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/2561-number-of-distinct-averages) |
 ## Counting
@@ -225,4 +228,5 @@
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/1137-height-checker) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
