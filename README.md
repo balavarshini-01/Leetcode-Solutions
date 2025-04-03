@@ -17,6 +17,7 @@
 | [0169-majority-element](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0792-binary-search](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
@@ -95,6 +96,7 @@
 | [0035-search-insert-position](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0792-binary-search) |
 ## Database
@@ -118,6 +120,7 @@
 | [0125-valid-palindrome](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
@@ -200,6 +203,7 @@
 | [0191-number-of-1-bits](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [2659-number-of-even-and-odd-bits](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/2659-number-of-even-and-odd-bits) |
 ## Simulation
