@@ -43,6 +43,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2487-optimal-partition-of-string](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/2487-optimal-partition-of-string) |
 | [2561-number-of-distinct-averages](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/2561-number-of-distinct-averages) |
 | [2825-minimize-string-length](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/2825-minimize-string-length) |
 ## Divide and Conquer
@@ -155,6 +156,7 @@
 | [0657-robot-return-to-origin](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2487-optimal-partition-of-string](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/2487-optimal-partition-of-string) |
 | [2825-minimize-string-length](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/2825-minimize-string-length) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## Stack
@@ -237,4 +239,8 @@
 | ------- |
 | [1137-height-checker](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Greedy
+|  |
+| ------- |
+| [2487-optimal-partition-of-string](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/2487-optimal-partition-of-string) |
 <!---LeetCode Topics End-->
