@@ -86,6 +86,7 @@
 | [0342-power-of-four](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1585-the-kth-factor-of-n](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/1585-the-kth-factor-of-n) |
 | [2491-smallest-even-multiple](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/2491-smallest-even-multiple) |
 | [2752-sum-multiples](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/2752-sum-multiples) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -229,6 +230,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/0258-add-digits) |
+| [1585-the-kth-factor-of-n](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/1585-the-kth-factor-of-n) |
 | [2491-smallest-even-multiple](https://github.com/balavarshini-01/Leetcode-Solutions/tree/master/2491-smallest-even-multiple) |
 ## Counting Sort
 |  |
